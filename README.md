@@ -5,10 +5,11 @@
 [Тестовое задание](https://docs.google.com/document/d/1JBa9OLgGDAG9ujmVSBXHalDYibaaxa68lL5P8l2PwmI/edit?pli=1)
 
 ## Installation
+```bash
   $ git clone https://github.com/SergDolgov/aiogram-bot.git
   $ cd aiogram-bot
   $ pip3 install -r requirements.txt
-
+```
 
 ## Содержание src/
 * Папки 
